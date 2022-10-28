@@ -1,1 +1,1 @@
-# subdomains
+# subdomains for bug hunting
